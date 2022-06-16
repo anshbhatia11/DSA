@@ -1,4 +1,5 @@
 //time complexity: O(n^2), space complexity: O(1)
+//unstable algorithm, order isn't neccesarilty preserved
 
 #include <climits>
 int minVal(vector<int>& arr,int s,int e){
